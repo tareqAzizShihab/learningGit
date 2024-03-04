@@ -1,4 +1,3 @@
-1.Maria=>(99%)
-2.Shakil=>(0.5%)
-3.Hasib=>(0.25%)
+1.Maria=>(99.5%)
+2.Shakil=>(0.25%)
 4.Obaidullah=>(0.25%)
